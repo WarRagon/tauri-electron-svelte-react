@@ -1,6 +1,6 @@
-# Tauri + Electron + ( SvelteKit , React )
+# Tauri + Electron + ( Svelte , React )
 
-This project is a template combining **Tauri**, **Electron**, and **SvelteKit**, **React** for building cross-platform desktop applications with modern web technologies.
+This project is a template combining **Tauri**, **Electron**, and **Svelte**, **React** for building cross-platform desktop applications with modern web technologies.
 
 # create
 
